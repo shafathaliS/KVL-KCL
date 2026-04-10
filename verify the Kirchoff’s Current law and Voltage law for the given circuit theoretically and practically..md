@@ -21,12 +21,14 @@ Sl. No. Apparatus Specification Quantity
 4. Verify the theoretical and practical values.
 
 ## Formula Used: 
+<img width="362" height="106" alt="image" src="https://github.com/user-attachments/assets/ecf3d746-5f7a-4c58-b862-ebf5d0848c8e" />
 
 ## Circuit Diagram :
+<img width="676" height="441" alt="image" src="https://github.com/user-attachments/assets/8ede7fbe-d385-418b-b737-a4fe85d9354f" />
 
-## Output Calculation:
 
 ## Output Tabulation:
+<img width="855" height="242" alt="image" src="https://github.com/user-attachments/assets/f686f7f2-14d7-4521-83e2-20a7e610436d" />
 
 ## Result:  
-
+The voltage results convincingly seem to be in good agreement. The tables clearly indicate that the calculated and simulated results were found to be the same. Slight deviations in the experimental results might have been caused by fluctuating values in the ammeter making it hard to read precise values. In addition, setting the voltmeter to exactly 10V on the Digital Lab also proved to be a difficult task because the knob was too sensitive. If this experiment is to be redone, improvements can be made by taking enough time to set the source voltage on the Digital Lab to the correct value.
